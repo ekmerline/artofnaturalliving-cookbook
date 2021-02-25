@@ -1,0 +1,15 @@
+.heading-text {
+    color: #209608;
+}
+
+#ingredientHeading {
+    text-align: center;
+}
+
+li {
+    font-size: 11px;
+}
+
+body {
+    font-family: 'Calibri';
+}
